@@ -1,0 +1,10 @@
+{
+  "appId": "com.dayzero.calendar",
+  "appName": "DayZero Calendar",
+  "webDir": "dist",
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#b8b8b8"
+    }
+  }
+}
